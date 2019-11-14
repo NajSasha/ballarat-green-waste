@@ -1,0 +1,5 @@
+https://data.gov.au/dataset/ds-dga-d563bdd5-cc19-4b93-a558-044545b3ff0f/details?q=ballarat%20waste
+
+Ballarat Kerbside Green Waste Deliveries
+City of Ballarat / Created 05/09/2019  / Updated 05/09/2019
+Deliveries of kerbside green waste to its holding facility. Although all due care has been taken to ensure that these data are correct, no warranty is expressed or implied by the City of Ballarat in their use.
